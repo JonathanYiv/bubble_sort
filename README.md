@@ -1,6 +1,6 @@
 # Bubble Sort Project
 
-This is my version of implementing the [bubble sort](https://ruby-doc.org/core-2.4.1/Enumerable.html).
+This is my version of implementing the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort).
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks).
 
